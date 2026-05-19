@@ -101,11 +101,13 @@ INFRA            Docker · GitHub Actions · Linux
 
 ## 📊 Stats
 
+## 📊 Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikky781&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=vikky781&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikky781&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
+![vikky781's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikky781&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
 
 </div>
 
