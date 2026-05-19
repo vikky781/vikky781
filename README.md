@@ -24,7 +24,6 @@ vikhyat = {
     "role":       "AI Engineer & Builder",
     "education":  "CSE @ IIIT Sri City (Year 1)",
     "focus":      ["Agentic Systems", "Multi-Agent Orchestration", "RAG Pipelines"],
-    "thesis":     "Conversational AI & Agentic Systems (Prof. Prasenjit Mukherjee)",
     "philosophy": "Ship fast. Stay honest. Let the demo speak.",
     "currently":  "Building → Breaking → Rebuilding",
 }
@@ -113,8 +112,6 @@ INFRA            Docker · GitHub Actions · Linux
 ## 🏁 Timeline
 
 ```
-May  2026 │ BTP — Conversational AI & Agentic Systems (IIIT Sri City)
-May  2026 │ Google Gemini Student Ambassador — Shortlisted
 May  2026 │ HackerRank Orchestrate Hackathon — Top 11% (153/1349)
 Apr  2026 │ UrbanSAR — 36hr solo build, ResNet18 dual-branch CNN
 Mar  2026 │ AeroResolve — 60hr solo build, IdeaVerse'26
